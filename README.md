@@ -9,4 +9,4 @@
 - Responsive Design
 - Project Showcase Section
 - Contact Form
-- Smooth Animations
+
