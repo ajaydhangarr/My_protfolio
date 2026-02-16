@@ -1,2 +1,12 @@
-# My_protfolio
-Personal Portfolio Website built using HTML, CSS, and JavaScript.   Showcases my projects, skills, and contact information.   Focused on responsive design and clean UI.
+# My Portfolio Website
+
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## ✨ Features
+- Responsive Design
+- Project Showcase Section
+- Contact Form
+- Smooth Animations
